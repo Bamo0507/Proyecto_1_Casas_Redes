@@ -1,0 +1,23 @@
+{
+  "enfoque": "iteracion_2_finalista_2_todas",
+  "configuracion": {
+    "activacion": "leaky_relu",
+    "batch_norm": false,
+    "batch_size": 32,
+    "capas_ocultas": [
+      32
+    ],
+    "dropout": 0.05,
+    "inicializacion": "acorde_activacion",
+    "learning_rate": 0.0003,
+    "pendiente_leaky": 0.01,
+    "weight_decay": 0.0
+  },
+  "metodo_objetivo": "log1p",
+  "epocas_finales": 121,
+  "rmse_entrenamiento": 30023.059812301457,
+  "rmse_validacion": 32462.956869966136,
+  "filas_entrenamiento": 816,
+  "columnas_procesadas": 280,
+  "semilla": 2026
+}
