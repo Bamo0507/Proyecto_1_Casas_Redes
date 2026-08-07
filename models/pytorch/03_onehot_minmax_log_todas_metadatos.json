@@ -1,0 +1,21 @@
+{
+  "enfoque": "03_onehot_minmax_log_todas",
+  "configuracion": {
+    "activacion": "tanh",
+    "batch_norm": false,
+    "batch_size": 64,
+    "capas_ocultas": [
+      64
+    ],
+    "dropout": 0.0,
+    "learning_rate": 0.001,
+    "weight_decay": 0.001
+  },
+  "metodo_objetivo": "log1p",
+  "epocas_finales": 189,
+  "rmse_entrenamiento": 8706.83748169309,
+  "rmse_validacion": 26021.027675055277,
+  "filas_entrenamiento": 816,
+  "columnas_procesadas": 280,
+  "semilla": 2026
+}

@@ -1,0 +1,21 @@
+{
+  "enfoque": "06_onehot_standard_objetivo_estandar",
+  "configuracion": {
+    "activacion": "tanh",
+    "batch_norm": false,
+    "batch_size": 32,
+    "capas_ocultas": [
+      64
+    ],
+    "dropout": 0.0,
+    "learning_rate": 0.001,
+    "weight_decay": 0.001
+  },
+  "metodo_objetivo": "standard",
+  "epocas_finales": 26,
+  "rmse_entrenamiento": 15691.643270530567,
+  "rmse_validacion": 23263.482213309897,
+  "filas_entrenamiento": 816,
+  "columnas_procesadas": 280,
+  "semilla": 2026
+}

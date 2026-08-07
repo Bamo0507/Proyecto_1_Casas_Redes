@@ -1,0 +1,21 @@
+{
+  "enfoque": "05_mixto_standard_log_todas",
+  "configuracion": {
+    "activacion": "tanh",
+    "batch_norm": false,
+    "batch_size": 64,
+    "capas_ocultas": [
+      64
+    ],
+    "dropout": 0.1,
+    "learning_rate": 0.001,
+    "weight_decay": 0.001
+  },
+  "metodo_objetivo": "log1p",
+  "epocas_finales": 95,
+  "rmse_entrenamiento": 29762.321946068365,
+  "rmse_validacion": 29372.11588935168,
+  "filas_entrenamiento": 816,
+  "columnas_procesadas": 213,
+  "semilla": 2026
+}
