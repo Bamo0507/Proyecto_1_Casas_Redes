@@ -1,0 +1,23 @@
+{
+  "enfoque": "iteracion_3_finalista_1",
+  "configuracion": {
+    "activacion": "relu",
+    "batch_norm": false,
+    "batch_size": 64,
+    "capas_ocultas": [
+      32
+    ],
+    "dropout": 0.0,
+    "inicializacion": "original",
+    "learning_rate": 0.0003,
+    "pendiente_leaky": 0.01,
+    "weight_decay": 0.0
+  },
+  "metodo_objetivo": "log1p",
+  "epocas_finales": 92,
+  "rmse_entrenamiento": 14434.106002267996,
+  "rmse_validacion": 22251.2177807792,
+  "filas_entrenamiento": 814,
+  "columnas_procesadas": 279,
+  "semilla": 2026
+}
