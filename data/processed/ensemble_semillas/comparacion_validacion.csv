@@ -1,0 +1,3 @@
+Modelo,Cantidad_modelos,RMSE_validacion,RMSE_entrenamiento
+ensemble_cinco_semillas,5,21780.346828678747,14465.812773496153
+02_onehot_standard_log_sin_outliers,1,22054.365374587414,14804.908533502343

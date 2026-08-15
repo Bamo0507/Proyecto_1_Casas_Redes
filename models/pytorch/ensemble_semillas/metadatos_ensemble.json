@@ -1,0 +1,29 @@
+{
+  "configuracion": {
+    "capas_ocultas": [
+      32
+    ],
+    "activacion": "relu",
+    "dropout": 0.0,
+    "weight_decay": 0.001,
+    "learning_rate": 0.001,
+    "batch_size": 64,
+    "batch_norm": false,
+    "inicializacion": "original",
+    "pendiente_leaky": 0.01
+  },
+  "semillas_modelo": [
+    2026,
+    42,
+    31415,
+    2718,
+    7
+  ],
+  "cantidad_modelos": 5,
+  "metodo_agregacion": "promedio_en_dolares",
+  "metodo_objetivo": "log1p",
+  "filas_entrenamiento": 814,
+  "columnas_procesadas": 279,
+  "rmse_entrenamiento": 14465.812773496153,
+  "rmse_validacion": 21780.346828678747
+}

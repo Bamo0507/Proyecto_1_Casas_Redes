@@ -1,0 +1,6 @@
+Miembro,Semilla,Epocas_finales,RMSE_early_stopping,Ruta_modelo
+1,2026,45,18637.748929628506,models/pytorch/ensemble_semillas/miembro_1_modelo.pt
+2,42,41,17897.646738007057,models/pytorch/ensemble_semillas/miembro_2_modelo.pt
+3,31415,37,17335.021245484535,models/pytorch/ensemble_semillas/miembro_3_modelo.pt
+4,2718,25,18481.587587907696,models/pytorch/ensemble_semillas/miembro_4_modelo.pt
+5,7,32,19097.666600661803,models/pytorch/ensemble_semillas/miembro_5_modelo.pt

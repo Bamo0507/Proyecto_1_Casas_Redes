@@ -1,0 +1,6 @@
+Miembro,Semilla,Epocas_finales,Ruta_modelo
+1,2026,45,models/pytorch/evaluacion_final_test/miembro_1_modelo.pt
+2,42,41,models/pytorch/evaluacion_final_test/miembro_2_modelo.pt
+3,31415,37,models/pytorch/evaluacion_final_test/miembro_3_modelo.pt
+4,2718,25,models/pytorch/evaluacion_final_test/miembro_4_modelo.pt
+5,7,32,models/pytorch/evaluacion_final_test/miembro_5_modelo.pt

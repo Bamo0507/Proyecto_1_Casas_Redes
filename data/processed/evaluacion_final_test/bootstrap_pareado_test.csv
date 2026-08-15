@@ -1,0 +1,2 @@
+Comparacion,Diferencia_RMSE_observada,IC95_inferior,IC95_superior,Probabilidad_ensemble_mejor,Remuestras,Semilla
+ensemble_menos_control,-329.354750106595,-1019.5230406606219,489.6571308149942,0.80765,100000,2026

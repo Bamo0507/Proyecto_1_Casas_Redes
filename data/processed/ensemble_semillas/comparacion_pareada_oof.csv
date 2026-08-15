@@ -1,0 +1,3 @@
+Metodo,Mejor_individual,Cantidad_folds,Diferencia_RMSE_promedio,Desviacion_diferencia,Error_estandar_diferencia,Folds_con_mejora
+Ensemble_3,Individual_2026,20,-457.1040435828501,1392.3917610302863,311.34826289743626,16
+Ensemble_5,Individual_2026,20,-695.347714042998,1196.8839205366821,267.63138074964775,15

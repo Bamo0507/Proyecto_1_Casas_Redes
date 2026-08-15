@@ -1,0 +1,44 @@
+{
+  "modelo_final_bloqueado": "ensemble_cinco_semillas",
+  "modelo_control": "control_semilla_2026",
+  "seleccion_posterior_a_test": false,
+  "ajustes_posteriores_a_test_permitidos": false,
+  "filas_desarrollo_antes_exclusion": 992,
+  "filas_desarrollo_final": 990,
+  "filas_test": 176,
+  "ids_excluidos_desarrollo": [
+    524,
+    1299
+  ],
+  "preprocesamiento": "onehot_standard",
+  "metodo_objetivo": "log1p",
+  "semillas": [
+    2026,
+    42,
+    31415,
+    2718,
+    7
+  ],
+  "epocas": [
+    45,
+    41,
+    37,
+    25,
+    32
+  ],
+  "configuracion": {
+    "capas_ocultas": [
+      32
+    ],
+    "activacion": "relu",
+    "dropout": 0.0,
+    "weight_decay": 0.001,
+    "learning_rate": 0.001,
+    "batch_size": 64,
+    "batch_norm": false,
+    "inicializacion": "original",
+    "pendiente_leaky": 0.01
+  },
+  "columnas_procesadas": 285,
+  "agregacion_ensemble": "promedio_predicciones_en_dolares"
+}
